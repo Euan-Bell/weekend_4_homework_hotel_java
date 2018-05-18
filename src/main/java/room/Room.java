@@ -2,11 +2,13 @@ package room;
 
 import java.util.ArrayList;
 
-public abstract class Room {
+public abstract class Room{
 
     private ArrayList<String> guestList;
+    private int capacity;
 
     public Room (int capacity){
+        this.guestList = guestList;
         this.capacity = capacity;
     }
 
@@ -14,8 +16,6 @@ public abstract class Room {
         return guestList;
     }
 
-    public int getCapacity(){
-        return
-    }
+    public abstract int getCapacity();
 }
 
