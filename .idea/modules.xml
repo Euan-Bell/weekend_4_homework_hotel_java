@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava.iml" filepath="$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava_main.iml" group="hotelWeekendHomeWorkJava" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hotelWeekendHomeWorkJava_test.iml" group="hotelWeekendHomeWorkJava" />
+    </modules>
+  </component>
+</project>
