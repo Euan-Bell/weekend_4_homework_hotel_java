@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b259542-593e-49ba-9b0e-22c58fa4f8dd" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/bedroomTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/ConfrenceTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/room/Bedroom.java" afterPath="$PROJECT_DIR$/src/main/java/room/Bedroom.java" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/room/Confrence.class" afterPath="$PROJECT_DIR$/out/production/classes/room/Confrence.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/room/Confrence.java" afterPath="$PROJECT_DIR$/src/main/java/room/Confrence.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -23,16 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hotel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/hotel/Hotel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Guest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/people/Guest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -81,15 +72,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bedroomTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bedroomTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/bedroomTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#253#254#0" expanded="true" />
                 <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
                 <element signature="e#417#418#0" expanded="true" />
                 <element signature="e#455#456#0" expanded="true" />
                 <element signature="e#521#522#0" expanded="true" />
@@ -105,8 +97,49 @@
       <file leaf-file-name="Confrence.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/room/Confrence.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+            <state relative-caret-position="322">
+              <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+              <folding>
+                <element signature="e#387#388#0" expanded="true" />
+                <element signature="e#433#434#0" expanded="true" />
+                <element signature="e#463#464#0" expanded="true" />
+                <element signature="e#495#496#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#557#558#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfrenceTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ConfrenceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#391#392#0" expanded="true" />
+                <element signature="e#459#460#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#771#772#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConfrenceType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/enums/ConfrenceType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -147,8 +180,8 @@
       <file leaf-file-name="Bedroom.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/room/Bedroom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
               <folding>
                 <element signature="e#379#380#0" expanded="true" />
                 <element signature="e#425#426#0" expanded="true" />
@@ -158,22 +191,6 @@
                 <element signature="e#550#551#0" expanded="true" />
                 <element signature="e#585#586#0" expanded="true" />
                 <element signature="e#617#618#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="guestTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/guestTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#283#284#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -192,9 +209,13 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Dining</find>
+      <find>Bedroom</find>
+      <find>bedroom</find>
     </findStrings>
     <replaceStrings>
       <replace>Bedroom</replace>
+      <replace>Confrence</replace>
+      <replace>confrence</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -504,6 +525,8 @@
         <option value="$PROJECT_DIR$/src/test/java/diningTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/bedroomTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/room/Bedroom.java" />
+        <option value="$PROJECT_DIR$/src/main/java/room/Confrence.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ConfrenceTest.java" />
       </list>
     </option>
   </component>
@@ -620,7 +643,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.bedroomTest">
+  <component name="RunManager" selected="JUnit.ConfrenceTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -641,6 +664,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration name="ConfrenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="hotelWeekendHomeWorkJava_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConfrenceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -742,26 +785,6 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="diningTest.hasName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="hotelWeekendHomeWorkJava_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="diningTest" />
-      <option name="METHOD_NAME" value="hasName" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -803,19 +826,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.diningTest.hasName" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.diningTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.bedroomTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetRates" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetNumber" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.diningTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.bedroomTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetRates" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetNumber" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ConfrenceTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.bedroomTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetNumber" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetRates" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.diningTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.diningTest.hasName" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ConfrenceTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.bedroomTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetNumber" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.bedroomTest.canGetRates" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.diningTest" />
       </list>
     </recent_temporary>
   </component>
@@ -836,6 +859,9 @@
     <servers />
   </component>
   <component name="TestHistory">
+    <history-entry file="ConfrenceTest - 2018.05.18 at 17h 54m 42s.xml">
+      <configuration name="ConfrenceTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="bedroomTest - 2018.05.18 at 17h 30m 41s.xml">
       <configuration name="bedroomTest" configurationId="JUnit" />
     </history-entry>
@@ -863,9 +889,6 @@
     <history-entry file="diningTest_hasName - 2018.05.18 at 16h 34m 19s.xml">
       <configuration name="diningTest.hasName" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="guestTest - 2018.05.18 at 14h 34m 21s.xml">
-      <configuration name="guestTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -879,7 +902,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -942,7 +965,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1013,14 +1045,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/room/Confrence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" lean-forward="false" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/hotel/Hotel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1085,19 +1109,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/enums/ConfrenceType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-          <folding>
-            <element signature="e#155#156#0" expanded="false" />
-            <element signature="e#203#204#0" expanded="false" />
-            <element signature="e#237#238#0" expanded="false" />
-            <element signature="e#276#277#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/enums/DiningType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -1157,8 +1168,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/room/Bedroom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="29" column="5" lean-forward="true" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="39" selection-end-column="1" />
           <folding>
             <element signature="e#379#380#0" expanded="true" />
             <element signature="e#425#426#0" expanded="true" />
@@ -1174,12 +1185,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/bedroomTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#253#254#0" expanded="true" />
             <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
             <element signature="e#417#418#0" expanded="true" />
             <element signature="e#455#456#0" expanded="true" />
             <element signature="e#521#522#0" expanded="true" />
@@ -1187,6 +1199,51 @@
             <element signature="e#619#620#0" expanded="true" />
             <element signature="e#661#662#0" expanded="true" />
             <element signature="e#720#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/enums/ConfrenceType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/room/Confrence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+          <folding>
+            <element signature="e#387#388#0" expanded="true" />
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#495#496#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#557#558#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ConfrenceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#459#460#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#771#772#0" expanded="true" />
           </folding>
         </state>
       </provider>
