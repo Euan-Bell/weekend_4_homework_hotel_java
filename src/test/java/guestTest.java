@@ -5,7 +5,7 @@ import people.Guest;
 import static org.junit.Assert.assertEquals;
 
 public class guestTest {
-    
+
     Guest guest;
 
     @Before
