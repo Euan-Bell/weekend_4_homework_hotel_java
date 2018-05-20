@@ -1,6 +1,7 @@
 package room;
 
 import enums.BedroomType;
+import people.Guest;
 
 public class Bedroom extends Room{
 
@@ -37,4 +38,7 @@ public class Bedroom extends Room{
         return this.type;
     }
 
+
+    public static void addCustomer(Guest guest) {
+    }
 }
